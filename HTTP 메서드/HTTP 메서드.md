@@ -92,7 +92,7 @@ PUT 은 리소스를 대체.
 
 
 
-PATCH 를 사용하면 됩니다.
+`PATCH 를 사용하면 됩니다.`
 
 PATCH 로 보내게 되면 age: 50 -> username, age 
 `age만 50으로 변경됩니다.`
